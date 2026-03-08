@@ -91,7 +91,7 @@ Grady Booch’s book :
 
 ## Per AWS
 - Per AWS
-- [https://aws.amazon.com/blogs/apn/new-validation-checklists-clarify-requirements-for-aws-service-delivery-program/](https://aws.amazon.com/blogs/apn/new-validation-checklists-clarify-requirements-for-aws-service-delivery-program/)
+ Main Link [https://aws.amazon.com/blogs/apn/new-validation-checklists-clarify-requirements-for-aws-service-delivery-program/](https://aws.amazon.com/blogs/apn/new-validation-checklists-clarify-requirements-for-aws-service-delivery-program/)
 - [AWS CloudFormation Checklist ](https://s3-us-west-2.amazonaws.com/service-delivery.awspartner.com/Checklists/AWS+Service+Delivery+Partner+Validation+Checklist_AWS+CloudFormation.pdf)
 - [Amazon CloudFront Checklist ](https://s3-us-west-2.amazonaws.com/service-delivery.awspartner.com/Checklists/AWS+Service+Delivery+Partner+Validation+Checklist_CloudFront.pdf)
 - [Amazon EC2 for Windows Checklist >>](https://s3-us-west-2.amazonaws.com/service-delivery.awspartner.com/Checklists/AWS+Service+Delivery+Partner+Validation+Checklist_Amazon+EC2+Windows.pdf)
