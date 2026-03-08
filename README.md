@@ -6,7 +6,7 @@
 - Requirements Knockdown for Technical Architects
 - By Sachin Dixit
 
-![Requirements Knockdown for Technical Architects — image 1](media/slide1_img1.jpg)
+
 
 ---
 
@@ -17,25 +17,25 @@
 - Usage Scenario
 - Service Expectations
 - Special instructions
--
--
--
+
+
+
 - As defined in common man's language
 
 ---
 
 ## Per OOAD Mandate
-- Per OOAD Mandate
-- Booch’s book :
+
+Grady Booch’s book :
 - System boundary
 - Logical Object Model
 - Physical object model
 - Logical data model
 - Physical data model
 - Algorithmic decomposition
--
+
 - This has lead SRP , HCLC and other axioms
--
+
 - Dated but useful
 
 ![Per OOAD Mandate — image 2](media/slide3_img2.png)
@@ -44,14 +44,14 @@
 
 ## Per UML Spec
 - Per UML Spec
--
--
--
--
--
--
--
--
+
+
+
+
+
+
+
+
 - Ref : https://www.uml-diagrams.org/uml-25-diagrams.html
 
 ![Per UML Spec — image 3](media/slide4_img3.png)
@@ -59,13 +59,13 @@
 ---
 
 ## Per TOGAF
-- Per TOGAF
-- Architecture Domains
-- The Business Architecture defines the business strategy, governance, organization, and key business processes
-- The Data Architecture describes the structure of an organization's logical and physical data assets and data management resources
-- The Application Architecture provides a blueprint for the individual applications to be deployed, their interactions, and their relationships to the core business processes of the organization
-- The Technology Architecture describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services; this includes IT infrastructure,
-- Architecture Development Method
+
+- **Architecture Domains**
+- The _Business Architecture_ defines the business strategy, governance, organization, and key business processes
+- The _Data Architecture_ describes the structure of an organization's logical and physical data assets and data management resources
+- The _Application Architecture_ provides a blueprint for the individual applications to be deployed, their interactions, and their relationships to the core business processes of the organization
+- The _Technology Architecture _describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services; this includes IT infrastructure,
+- **Architecture Development Method**
 - Phase A: Architecture Vision describes the initial phase of an architecture development cycle
 - Phase B: Business Architecture describes the development of a Business Architecture to support the agreed Architecture Vision
 - Phase C: Information Systems Architectures describes the development of Information Systems Architectures to support the agreed Architecture Vision
@@ -82,7 +82,7 @@
 ---
 
 ## Quality of Service for Software Systems
-- Quality of Service for Software Systems
+
 - https://en.wikipedia.org/wiki/List_of_system_quality_attributes
 
 ![Quality of Service for Software Systems — image 5](media/slide6_img5.png)
@@ -114,7 +114,6 @@
 ---
 
 ## Per UX process
-- Per UX process
 - No standard defined
 - https://www.uxmatters.com/mt/archives/2019/06/choosing-the-right-ux-process-for-your-software-development-model.php
 
@@ -123,7 +122,7 @@
 ---
 
 ## Per Design Thinking
-- Per Design Thinking
+
 - https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf
 
 ![Per Design Thinking — image 7](media/slide9_img7.png)
